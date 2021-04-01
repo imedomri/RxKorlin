@@ -1,1 +1,1 @@
-# RxKorlin
+# RxKorlinApp
